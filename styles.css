@@ -1,2 +1,9 @@
+thead{
+	color: white;
+	background-color: red;
+}
 
+td{
+	padding: 2px 15px;
+}
 /* Your CSS Code here. */
